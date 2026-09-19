@@ -25,7 +25,6 @@ else if (nota >= 5) {
 else {
     console.log("Reprovado");
 }
-// 5. Mostrando o dia da semana com switch
 let diaDaSemana = 3;
 switch (diaDaSemana) {
     case 1:
