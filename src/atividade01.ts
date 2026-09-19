@@ -29,7 +29,7 @@ if (nota >= 7) {
   console.log("Reprovado");
 }
 
-// 5. Mostrando o dia da semana com switch
+
 let diaDaSemana: number = 3;
 
 switch (diaDaSemana) {
