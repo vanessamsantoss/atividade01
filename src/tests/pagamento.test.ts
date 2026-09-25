@@ -19,4 +19,4 @@ describe("Testes assíncronos", () => {
   test("deve rejeitar pagamento inválido", async () => {
     await expect(realizarPagamento(0)).rejects.toThrow("Valor inválido.");
   });
-});
+})
